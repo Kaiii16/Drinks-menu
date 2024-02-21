@@ -1,2 +1,2 @@
-// Add JavaScript functionality here
-console.log('JavaScript connected!');
+// Optional: Add JavaScript functionality here
+console.log('Welcome to our drinks menu!');

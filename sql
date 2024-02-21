@@ -1,1 +1,1 @@
-git commit -m "Initial commit"
+git commit -m "Add initial project files"
